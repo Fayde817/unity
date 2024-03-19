@@ -1,0 +1,4 @@
+repository "Vrai Junga Evo@Fayde817@cloud"
+  path "/"
+    br "/main"
+    co "/main"
